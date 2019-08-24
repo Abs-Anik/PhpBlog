@@ -1,0 +1,1 @@
+<div id="footer">Copyright &copy; 2019</div>

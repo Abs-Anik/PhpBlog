@@ -1,0 +1,42 @@
+body{
+    font-family: arial;
+    color: #333;
+}
+#wrapper{
+    width:960px;
+    margin: auto;
+}
+#header{
+    background: tomato;
+    padding: 10px;
+    color: white;
+    text-align: center;
+}
+#footer{
+    background: #101121;
+    padding: 10px;
+    color: white;
+    margin-top: 20px;
+}
+h1#logintitle{
+    text-align: center;
+}
+
+div#loginboxess input{
+    padding: 10px 0;
+    width: 98%;
+}
+
+div#loginboxess{
+    margin-bottom: 28px;
+    width: 350px;
+    margin: auto;
+    background: #f9f8f8;
+    padding: 10px;
+    border: 3px solid tomato;
+}
+input#loginbtn{
+    width: 100 !important;
+    margin: 0;
+    padding: 0;
+}
